@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">TourGuide</string>
 
+    <string name="category_museums">Museums</string>
+    <string name="category_exhibitions">Exhibitions</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_parks">Parks</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
