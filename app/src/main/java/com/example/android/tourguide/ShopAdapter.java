@@ -33,10 +33,10 @@ public class ShopAdapter extends ArrayAdapter<Shop> {
 
         Shop shop = getItem(position);
 
-        TextView nameTextView = (TextView) listItemView.findViewById(R.id.exhibition_name);
+        TextView nameTextView = (TextView) listItemView.findViewById(R.id.shop_name);
         nameTextView.setText(shop.getName());
 
-        TextView addressTextView = (TextView) listItemView.findViewById(R.id.exhibition_address);
+        TextView addressTextView = (TextView) listItemView.findViewById(R.id.shop_address);
         addressTextView.setText(shop.getAddress());
 
         return listItemView;

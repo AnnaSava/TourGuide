@@ -33,13 +33,13 @@ public class MuseumAdapter extends ArrayAdapter<Museum> {
 
         Museum museum = getItem(position);
 
-        TextView nameTextView = (TextView) listItemView.findViewById(R.id.exhibition_name);
+        TextView nameTextView = (TextView) listItemView.findViewById(R.id.museum_name);
         nameTextView.setText(museum.getName());
 
-        TextView infoTextView = (TextView) listItemView.findViewById(R.id.exhibition_info);
+        TextView infoTextView = (TextView) listItemView.findViewById(R.id.museum_info);
         infoTextView.setText(museum.getInfo());
 
-        TextView addressTextView = (TextView) listItemView.findViewById(R.id.exhibition_address);
+        TextView addressTextView = (TextView) listItemView.findViewById(R.id.museum_address);
         addressTextView.setText(museum.getAddress());
 
         return listItemView;

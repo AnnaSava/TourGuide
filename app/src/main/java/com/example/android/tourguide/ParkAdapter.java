@@ -34,13 +34,13 @@ public class ParkAdapter extends ArrayAdapter<Park> {
 
         Park park = getItem(position);
 
-        TextView nameTextView = (TextView) listItemView.findViewById(R.id.exhibition_name);
+        TextView nameTextView = (TextView) listItemView.findViewById(R.id.park_name);
         nameTextView.setText(park.getName());
 
-        TextView infoTextView = (TextView) listItemView.findViewById(R.id.exhibition_info);
+        TextView infoTextView = (TextView) listItemView.findViewById(R.id.park_info);
         infoTextView.setText(park.getInfo());
 
-        TextView addressTextView = (TextView) listItemView.findViewById(R.id.exhibition_address);
+        TextView addressTextView = (TextView) listItemView.findViewById(R.id.park_address);
         addressTextView.setText(park.getAddress());
 
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.park_image);
