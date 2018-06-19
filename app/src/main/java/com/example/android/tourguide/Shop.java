@@ -5,4 +5,21 @@ package com.example.android.tourguide;
  */
 
 public class Shop {
+
+    private String mName;
+
+    private String mAddress;
+
+    public Shop(String name, String address) {
+        mName = name;
+        mAddress = address;
+    }
+
+    public String getName() {
+        return mName;
+    }
+
+    public String getmAddress() {
+        return mAddress;
+    }
 }
