@@ -33,7 +33,7 @@ public class Exhibition {
         return mDate;
     }
 
-    public String getmAddress() {
+    public String getAddress() {
         return mAddress;
     }
 }

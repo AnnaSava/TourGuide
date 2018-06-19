@@ -19,7 +19,7 @@ public class Shop {
         return mName;
     }
 
-    public String getmAddress() {
+    public String getAddress() {
         return mAddress;
     }
 }

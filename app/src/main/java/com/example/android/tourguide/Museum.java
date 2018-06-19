@@ -25,7 +25,7 @@ public class Museum {
         return mInfo;
     }
 
-    public String getmAddress() {
+    public String getAddress() {
         return mAddress;
     }
 }

@@ -29,7 +29,7 @@ public class Park {
         return mInfo;
     }
 
-    public String getmAddress() {
+    public String getAddress() {
         return mAddress;
     }
 
