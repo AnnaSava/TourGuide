@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/itemPadding">
 
     <TextView
         android:id="@+id/exhibition_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/colorItemHeader"
+        android:textSize="@dimen/itemHeaderSize"
         tools:text="@string/category_exhibitions"/>
 
     <TextView
         android:id="@+id/exhibition_date"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/colorItemDate"
+        android:textStyle="italic"
         tools:text="@string/category_exhibitions"/>
 
     <TextView
         android:id="@+id/exhibition_info"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/itemInfoMargin"
+        android:layout_marginBottom="@dimen/itemInfoMargin"
         tools:text="@string/category_exhibitions"/>
 
     <TextView
         android:id="@+id/exhibition_address"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textStyle="italic"
         tools:text="@string/category_exhibitions"/>
 
 </LinearLayout>

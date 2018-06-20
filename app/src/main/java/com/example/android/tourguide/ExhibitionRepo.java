@@ -30,10 +30,10 @@ public class ExhibitionRepo {
                 res.getString(R.string.exh_dollsalon_info),
                 res.getString(R.string.exh_dollsalon_date),
                 res.getString(R.string.exh_dollsalon_address)));
-        exhibitions.add(new Exhibition(res.getString(R.string.exh_art_of_dolls),
-                res.getString(R.string.exh_art_of_dolls_info),
-                res.getString(R.string.exh_art_of_dolls_date),
-                res.getString(R.string.exh_art_of_dolls_address)));
+        exhibitions.add(new Exhibition(res.getString(R.string.exh_dollart),
+                res.getString(R.string.exh_dollart_info),
+                res.getString(R.string.exh_dollart_date),
+                res.getString(R.string.exh_dollart_address)));
     }
 
     public ArrayList<Exhibition> getExhibitions()

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="itemPadding">8dp</dimen>
+    <dimen name="itemHeaderSize">20sp</dimen>
+    <dimen name="itemInfoMargin">4dp</dimen>
+    <dimen name="parkItemImageMargin">4dp</dimen>
+</resources>

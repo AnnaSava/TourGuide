@@ -15,29 +15,29 @@
     <string name="museum_zabawushka_address">1st Pugachyovskaya st. 17</string>
 
     <string name="exh_spring_dolls">Spring Ball of Dolls</string>
-    <string name="exh_spring_dolls_info">Spring Ball of Dolls</string>
+    <string name="exh_spring_dolls_info">International Doll Salon organizes the Spring Ball of art dolls during the most beautiful spring holiday - International Women\'s Day.</string>
     <string name="exh_spring_dolls_date">March, 8-10</string>
     <string name="exh_spring_dolls_address">Tishinskaya sq. 1</string>
 
     <string name="exh_moscow_fair">Moscow Fair</string>
-    <string name="exh_moscow_fair_info">Moscow Fair</string>
+    <string name="exh_moscow_fair_info">Moscow international exhibition and fair of dolls and Teddy bears.</string>
     <string name="exh_moscow_fair_date">April, 13-15</string>
     <string name="exh_moscow_fair_address">Tishinskaya sq. 1</string>
 
     <string name="exh_dollscar">Dollscar</string>
-    <string name="exh_dollscar_info">Dollscar</string>
+    <string name="exh_dollscar_info">Dollscar is the biggest BJD Con in Russia, 1000 square meters of expo space for ABJD and other jointed dolls.</string>
     <string name="exh_dollscar_date">June, 16</string>
     <string name="exh_dollscar_address">5th Luchevoy Prosek 5 b. 2</string>
 
     <string name="exh_dollsalon">Doll Salon</string>
-    <string name="exh_dollsalon_info">Doll Salon</string>
+    <string name="exh_dollsalon_info">This is significant and long-awaited event which consistently gathers artists and lovers of dolls and author toys from all over the world.</string>
     <string name="exh_dollsalon_date">October, 5-7</string>
     <string name="exh_dollsalon_address">Tishinskaya sq. 1</string>
 
-    <string name="exh_art_of_dolls">Art of Dolls</string>
-    <string name="exh_art_of_dolls_info">Art of Dolls</string>
-    <string name="exh_art_of_dolls_date">December 14-16</string>
-    <string name="exh_art_of_dolls_address">Ilyinka st. 4</string>
+    <string name="exh_dollart">Doll Art</string>
+    <string name="exh_dollart_info">The largest exhibition of dolls in the world take place in the historic center of the Russian capital in the ""Gostiny Dvor"".</string>
+    <string name="exh_dollart_date">December 14-16</string>
+    <string name="exh_dollart_address">Ilyinka st. 4</string>
 
     <string name="shop_dm">Detsky Mir</string>
     <string name="shop_dm_address">Vozdvizhenka st. 10</string>
@@ -45,9 +45,30 @@
     <string name="shop_cdm">Central Children\'s Store on Lubyanka</string>
     <string name="shop_cdm_address">Teatralniy Proyezd 5 b. 1</string>
 
+
+    <string name="park_vdnh">VDNKh</string>
+    <string name="park_vdnh_info">Permanent general purpose trade show and amusement park located in Ostankinsky District.</string>
+    <string name="park_vdnh_address">Prospekt Mira, 119</string>
+
     <string name="park_tsaritsyno">Tsaritsyno</string>
-    <string name="park_tsaritsyno_info">Teatralniy Proyezd 5 b. 1</string>
+    <string name="park_tsaritsyno_info">Palace museum and park reserve in the south of Moscow.</string>
     <string name="park_tsaritsyno_address">Dolskaya st. 1</string>
+
+    <string name="park_aptekar">Aptekarskiy Ogorod</string>
+    <string name="park_aptekar_info">The oldest botanical garden in Russia, founded by Peter I in 1706.</string>
+    <string name="park_aptekar_address">Prospekt Mira 26 b. 1</string>
+
+    <string name="park_sokolniki">Sokolniki Park</string>
+    <string name="park_sokolniki_info">Park named for the falcon hunt of the Grand Dukes of Muscovy formerly conducted there.</string>
+    <string name="park_sokolniki_address">Sokolnicheskiy Val st. 1 b. 1</string>
+
+    <string name="park_kolomenskoe">Kolomenskoye</string>
+    <string name="park_kolomenskoe_info">Former royal estate, now there are park and museum.</string>
+    <string name="park_kolomenskoe_address">Andropova Ave, 39</string>
+
+    <string name="park_kuzminki">Kuzminki Park</string>
+    <string name="park_kuzminki_info">Park placed in the south-east of Moscow.</string>
+    <string name="park_kuzminki_address">Kuzminskiy Park st. 1 b. 2</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
