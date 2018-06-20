@@ -1,19 +1,33 @@
 <resources>
     <string name="app_name">Moscow Doll Guide</string>
 
-    <string name="category_museums">Museums</string>
-    <string name="category_exhibitions">Exhibitions</string>
+    <string name="category_museums">Museum</string>
+    <string name="category_exhibitions">Events</string>
     <string name="category_shops">Shops</string>
     <string name="category_parks">Parks</string>
 
+    <!-- Museums -->
     <string name="museum_unique_dolls">Museum of Unique Dolls</string>
     <string name="museum_unique_dolls_info">The museum carries out fascinating excursions to the magic world of old dolls. You will get acquainted with the history of the development of puppet craftsmanship, a unique exposition of puppets from different countries and eras, materials of their manufacture and their purpose.</string>
     <string name="museum_unique_dolls_address">Pokrovka st. 13 b. 2</string>
 
+    <string name="museum_dolls_lane">Gallery \"Doll\'s Lane\"</string>
+    <string name="museum_dolls_lane_info">Gallery of author\'s dolls \"Doll\'s Lane\" is not just a place where you can see hundreds of handmade dolls, created by the best Russian and foreign artists - a special world, who will be happy and surprised to discover children and adults.</string>
+    <string name="museum_dolls_lane_address">Izmailovo shosse, 73zh</string>
+
     <string name="museum_zabawushka">Folk Toy Museum</string>
-    <string name="museum_zabawushka_info">The museum "Zabawushka" gives a unique opportunity for children and adults to plunge into the fabulous world of folk toys, play, invent a fairy tale and show it with toys.</string>
+    <string name="museum_zabawushka_info">The museum \"Zabawushka\" gives a unique opportunity for children and adults to plunge into the fabulous world of folk toys, play, invent a fairy tale and show it with toys.</string>
     <string name="museum_zabawushka_address">1st Pugachyovskaya st. 17</string>
 
+    <string name="museum_doll_theater">Museum of Doll Theater</string>
+    <string name="museum_doll_theater_info">The Museum of dolls of Obraztsov Doll Theater occupies a special place on the museum map of Russia and the world. Having begun once from the exhibition on the balcony in the first building of the theater in Mayakovsky Square, now it is the largest in Russia and one of the largest in the world - more than 4 thousand units of storage.</string>
+    <string name="museum_doll_theater_address">Sadovaya-Samotechnaya st. 3</string>
+
+    <string name="museum_childhood">Childhood Museum</string>
+    <string name="museum_childhood_info">In the museum of childhood, located on the 7th floor of the Central Children\'s Shop in Lubyanka, more than 1000 exhibits are collected. There are toys, books, records, films, radio programs linking more than one generation of people.</string>
+    <string name="museum_childhood_address">Teatralniy Proyezd 5 b. 1</string>
+
+    <!-- Exhibitions -->
     <string name="exh_spring_dolls">Spring Ball of Dolls</string>
     <string name="exh_spring_dolls_info">International Doll Salon organizes the Spring Ball of art dolls during the most beautiful spring holiday - International Women\'s Day.</string>
     <string name="exh_spring_dolls_date">March, 8-10</string>
@@ -35,17 +49,36 @@
     <string name="exh_dollsalon_address">Tishinskaya sq. 1</string>
 
     <string name="exh_dollart">Doll Art</string>
-    <string name="exh_dollart_info">The largest exhibition of dolls in the world take place in the historic center of the Russian capital in the ""Gostiny Dvor"".</string>
+    <string name="exh_dollart_info">The largest exhibition of dolls in the world take place in the historic center of the Russian capital in the \"Gostiny Dvor\".</string>
     <string name="exh_dollart_date">December 14-16</string>
     <string name="exh_dollart_address">Ilyinka st. 4</string>
 
+    <!-- Shops -->
     <string name="shop_dm">Detsky Mir</string>
     <string name="shop_dm_address">Vozdvizhenka st. 10</string>
 
-    <string name="shop_cdm">Central Children\'s Store on Lubyanka</string>
-    <string name="shop_cdm_address">Teatralniy Proyezd 5 b. 1</string>
+    <string name="shop_hamleys">Hamleys</string>
+    <string name="shop_hamleys_address">Teatralniy Proyezd 5 b. 1</string>
 
+    <string name="shop_toyru">Toy.Ru</string>
+    <string name="shop_toyru_address">Nikolskaya st. 25</string>
 
+    <string name="shop_gorod_igrushek">Gorod Igrushek</string>
+    <string name="shop_gorod_igrushek_address">Taganskaya st. 1 b. 1</string>
+
+    <string name="shop_korablik">Korablik</string>
+    <string name="shop_korablik_address">Gavrikova st. 2/38</string>
+
+    <string name="shop_dochkisinochki">Dochki-Sinochki</string>
+    <string name="shop_dochkisinochki_address">Krasnaya Presnya st. 24</string>
+    
+    <string name="shop_persey">Persey Dlya Detey</string>
+    <string name="shop_persey_address">Malaya Semenovskaya st. 28</string>
+
+    <string name="shop_kuklobaza">Kuklobaza</string>
+    <string name="shop_kuklobaza_address">Tikhvinskiy Pereulok 10/12 h. 3</string>
+
+    <!-- Parks -->
     <string name="park_vdnh">VDNKh</string>
     <string name="park_vdnh_info">Permanent general purpose trade show and amusement park located in Ostankinsky District.</string>
     <string name="park_vdnh_address">Prospekt Mira, 119</string>

@@ -18,9 +18,18 @@ public class MuseumRepo {
         museums.add(new Museum(res.getString(R.string.museum_unique_dolls),
                 res.getString(R.string.museum_unique_dolls_info),
                 res.getString(R.string.museum_unique_dolls_address)));
+        museums.add(new Museum(res.getString(R.string.museum_dolls_lane),
+                res.getString(R.string.museum_dolls_lane_info),
+                res.getString(R.string.museum_dolls_lane_address)));
         museums.add(new Museum(res.getString(R.string.museum_zabawushka),
                 res.getString(R.string.museum_zabawushka_info),
                 res.getString(R.string.museum_zabawushka_address)));
+        museums.add(new Museum(res.getString(R.string.museum_doll_theater),
+                res.getString(R.string.museum_doll_theater_info),
+                res.getString(R.string.museum_doll_theater_address)));
+        museums.add(new Museum(res.getString(R.string.museum_childhood),
+                res.getString(R.string.museum_childhood_info),
+                res.getString(R.string.museum_childhood_address)));
     }
 
     public ArrayList<Museum> getMuseums()
